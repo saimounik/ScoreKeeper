@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="teamA">SEATTLE SONICS</string>
+    <string name="teamB">TORNATO RAPTORS</string>
+    <string name="scoreforteams">0</string>
+    <string name="add3pointsbutton">+3 POINTS</string>
+    <string name="add2pointsbutton">+2 POINTS</string>
+    <string name="addfreethrowbutton">FREE THROW</string>
+    <string name="resetbutton">RESET</string>>
+</resources>
